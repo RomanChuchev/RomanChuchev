@@ -1,10 +1,10 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
 </div>
-<div align="center">
-  <h1">Hello everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"></h1>
-  <img src="https://komarev.com/ghpvc/?username=romanchuchev&style=flat-square&color=blue" alt=""/>
-</div>
+ 
+  <h1 align="center">Hello everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"></h1>
+  <img align="center" src="https://komarev.com/ghpvc/?username=romanchuchev&style=flat-square&color=blue" alt=""/>
+
  
  
 ### ☎️ Contact information:
@@ -16,7 +16,7 @@
 [![Codewars](https://www.codewars.com/users/Romanus20/badges/small)](https://www.codewars.com/users/Romanus20/badges/small))
 
 ### :woman_technologist:💻 About Myself:
-*My name is Roman. I am a beginner Frontend Developer*
+**My name is Roman. I am a beginner Frontend Developer**
 
 _I like the front-end - it's a creative process without limits that combines design and application development. I study front-end development and do my best to gain new knowledge and competencies. I really like what I do, because it's so fun and interesting!_
 
