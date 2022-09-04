@@ -1,6 +1,10 @@
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
+</div>
+ 
  <h1 align="center">Hello everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"></h1>
 
-<h2 align="center">My name is Roman</h2>
+<h2 align="center">My name is Roman. I am a beginner Frontend Developer</h2>
 
 <img src="https://komarev.com/ghpvc/?username=romanchuchev&style=flat-square&color=blue" alt=""/>
 
