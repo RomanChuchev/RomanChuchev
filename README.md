@@ -2,7 +2,9 @@
  <div id="center" align="center">
    <img  src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
   </div>
-  <img align="center" src="https://komarev.com/ghpvc/?username=romanchuchev&style=flat-square&color=blue" alt=""/>
+   <div id="komarev" align="center">
+    <img align="center" src="https://komarev.com/ghpvc/?username=romanchuchev&style=flat-square&color=blue" alt=""/>
+  </div>
 
  
  
