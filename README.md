@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> Hello Everyone! 
 
 
-## :woman_technologist:💻 My name is Roman. I am a beginner Frontend Developer
+## :man_technologist: My name is Roman. I am a beginner Frontend Developer
 
 _I like the front-end - it's a creative process without limits that combines design and application development. I study front-end development and do my best to gain new knowledge and competencies. I really like what I do, because it's so fun and interesting!_
 
