@@ -44,10 +44,10 @@ _I believe that soon I will find an internship or my first job in the frontend, 
 
 
  <h2 align="center">🔥**My Stats:** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"></h1>
-<div id="center" align="center">
+<div align="center">
     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=romanchuchev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)] (https://git.io/streak-stats)
 </div>
-<div id="center" align="center">
+<div align="center">
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanchuchev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
