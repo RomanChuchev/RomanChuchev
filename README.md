@@ -1,10 +1,13 @@
-  <h1 align="center">Hello Everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"></h1>
- <div id="center" align="center">
-   <img  src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
-  </div>
-   <div id="komarev" align="center">
-    <img align="center" src="https://komarev.com/ghpvc/?username=romanchuchev&style=flat-square&color=blue" alt=""/>
-  </div>
+# Hello Everyone! 👋
+
+## :woman_technologist:💻 My name is Roman. I am a beginner Frontend Developer
+
+_I like the front-end - it's a creative process without limits that combines design and application development. I study front-end development and do my best to gain new knowledge and competencies. I really like what I do, because it's so fun and interesting!_
+
+_Completed courses: ["Junior JavaScript developer"](https://skillbox.ru/course/javascript/) by Skillbox and ["React + Redux - Professional Development"](https://www.udemy.com/course/pro-react-redux/) by Udemy. I practice programming every day, write pet-projects in my portfolio and study courses on algorithms and frameworks (React)._
+_I believe that soon I will find an internship or my first job in the frontend, where I will get a lot of experience, practical skills and find cool friends._
+
+---
 
 ### ☎️ Contact information:
 
@@ -13,16 +16,6 @@
 - **Phone**: [+7(977)280-56-92](<tel:+7(977)280-56-92>)
 
 [![Codewars](https://www.codewars.com/users/Romanus20/badges/small)](https://www.codewars.com/users/Romanus20/badges/small))
-
----
-
-### :woman_technologist:💻 About Myself:
-**My name is Roman. I am a beginner Frontend Developer**
-
-_I like the front-end - it's a creative process without limits that combines design and application development. I study front-end development and do my best to gain new knowledge and competencies. I really like what I do, because it's so fun and interesting!_
-
-_Completed courses: ["Junior JavaScript developer"](https://skillbox.ru/course/javascript/) by Skillbox and ["React + Redux - Professional Development"](https://www.udemy.com/course/pro-react-redux/) by Udemy. I practice programming every day, write pet-projects in my portfolio and study courses on algorithms and frameworks (React)._
-_I believe that soon I will find an internship or my first job in the frontend, where I will get a lot of experience, practical skills and find cool friends._
 
 ---
 
