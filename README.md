@@ -6,8 +6,6 @@
     <img align="center" src="https://komarev.com/ghpvc/?username=romanchuchev&style=flat-square&color=blue" alt=""/>
   </div>
 
- 
- 
 ### ☎️ Contact information:
 
 - **Telegram**: [@roman_chuchev](https://t.me/roman_chuchev)
@@ -16,6 +14,8 @@
 
 [![Codewars](https://www.codewars.com/users/Romanus20/badges/small)](https://www.codewars.com/users/Romanus20/badges/small))
 
+---
+
 ### :woman_technologist:💻 About Myself:
 **My name is Roman. I am a beginner Frontend Developer**
 
@@ -23,6 +23,8 @@ _I like the front-end - it's a creative process without limits that combines des
 
 _Completed courses: ["Junior JavaScript developer"](https://skillbox.ru/course/javascript/) by Skillbox and ["React + Redux - Professional Development"](https://www.udemy.com/course/pro-react-redux/) by Udemy. I practice programming every day, write pet-projects in my portfolio and study courses on algorithms and frameworks (React)._
 _I believe that soon I will find an internship or my first job in the frontend, where I will get a lot of experience, practical skills and find cool friends._
+
+---
 
 ### 🛠 Tech Stack and Tools:
 
@@ -36,17 +38,20 @@ _I believe that soon I will find an internship or my first job in the frontend, 
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 
+---
+
 ### 🗣️ Languages:
 - **Russian**: _Native_
 - **English**: _Pre-intermediate/Intermediate_
 
   <a alt="Test Efset" href="https://efset.org"><img alt="Test Efset" src="https://user-images.githubusercontent.com/102550409/188318365-3cf7763d-499a-475c-b2c4-ba88e248aac2.png" width="200px" /></a>
 
+---
+
+ ### 🔥My Stats:
 
     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=romanchuchev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)] (https://git.io/streak-stats)
     <br/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanchuchev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- ### 🔥My Stats:
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanchuchev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
