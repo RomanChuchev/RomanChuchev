@@ -16,7 +16,7 @@ _I believe that soon I will find an internship or my first job in the frontend, 
 - **Email**: [romanok20@gmail.com](mailto:romanok20@gmail.com)
 - **Phone**: [+7(977)280-56-92](<tel:+7(977)280-56-92>)
 
-[![Codewars](https://www.codewars.com/users/RomanChuchev/badges/small](https://www.codewars.com/users/RomanChuchev/badges/small)
+[![Codewars](https://www.codewars.com/users/RomanChuchev/badges/small)](https://www.codewars.com/users/RomanChuchev/badges/small)
 
 ---
 
