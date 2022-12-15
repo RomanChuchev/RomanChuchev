@@ -1,6 +1,6 @@
 ## **<div align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> Hello Everyone! </div>**
 
-# <div align="center"> :man_technologist: My name is Roman. I am a young and ambitious Frontend Developer </div>
+# <div align="center"> :man_technologist: My name is Roman. I am a Frontend Developer </div>
 
 _My development is formed in a fanatical devotion to the cause, improving myself and my environment. I do what I love and love what I do!_
 
@@ -8,18 +8,16 @@ _I want to work in a team of professionals and participate in the development of
 
 _I know how to properly organize my working time, prioritize tasks and find a solution for them as soon as possible._
 
-## ☎️ Contact information:
+## <div align="center"> ☎️ Contact information: </div>
 
 - **Telegram**: [@roman_chuchev](https://t.me/roman_chuchev) 
 - **Email**: [romanok20@gmail.com](mailto:romanok20@gmail.com)
 - **Phone**: [+7(977)280-56-92](<tel:+7(977)280-56-92>) 
 
----
-
-[![Codewars](https://www.codewars.com/users/RomanChuchev/badges/small)](https://www.codewars.com/users/RomanChuchev/badges/small)
+ [![Codewars](https://www.codewars.com/users/RomanChuchev/badges/small)](https://www.codewars.com/users/RomanChuchev) 
 
 ---
-## <div align="center"> Passed courses:
+##  Passed courses: 
 - "Junior JavaScript Developer" by Skillbox 
 - "React + Redux - Professional Development" by Udemy.
 - "JavaScript/Frontend" by The Rolling Scopes School
@@ -27,7 +25,7 @@ _I know how to properly organize my working time, prioritize tasks and find a so
 
 ---
 
-## 🛠 Tech Stack and Tools:
+## 🛠 Tech Stack and Tools: 
   
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
 <img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
@@ -45,18 +43,20 @@ _I know how to properly organize my working time, prioritize tasks and find a so
 
 ---
 
-## 🗣️ Languages:
+##  🗣️ Languages: 
 - **Russian**: _Native_
 - **English**: _Pre-intermediate/Intermediate_
 
-  <a alt="Test Efset" href="https://efset.org"><img alt="Test Efset" src="https://user-images.githubusercontent.com/102550409/188318365-3cf7763d-499a-475c-b2c4-ba88e248aac2.png" width="200px" /></a>
+  <div align="center"> <a alt="Test Efset" href="https://efset.org"><img alt="Test Efset" src="https://user-images.githubusercontent.com/102550409/188318365-3cf7763d-499a-475c-b2c4-ba88e248aac2.png" width="200px" /></a> </div>
 
 ---
 
- ## 🔥My Stats:
+ ##  🔥My Stats: 
+ 
+ 
+[<div align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanchuchev&layout=compact&theme=vision-friendly-dark) </div>](https://github.com/anuraghazra/github-readme-stats)
+[<div align="center"> ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=romanchuchev&theme=dark&background=000000) </div>](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=romanchuchev&theme=dark&background=000000)](https://git.io/streak-stats)
-    <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanchuchev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
