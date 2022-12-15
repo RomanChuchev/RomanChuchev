@@ -1,40 +1,51 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> Hello Everyone! 
+## **<div align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> Hello Everyone! </div>**
 
+# <div align="center"> :man_technologist: My name is Roman. I am a young and ambitious Frontend Developer </div>
 
-## :man_technologist: My name is Roman. I am a beginner Frontend Developer
+_My development is formed in a fanatical devotion to the cause, improving myself and my environment. I do what I love and love what I do!_
 
-_I like the front-end - it's a creative process without limits that combines design and application development. I study front-end development and do my best to gain new knowledge and competencies. I really like what I do, because it's so fun and interesting!_
+_I want to work in a team of professionals and participate in the development of interesting projects._
 
-_Completed courses: ["Junior JavaScript developer"](https://skillbox.ru/course/javascript/) by Skillbox and ["React + Redux - Professional Development"](https://www.udemy.com/course/pro-react-redux/) by Udemy. I practice programming every day, write pet-projects in my portfolio and study courses on algorithms and frameworks (React)._
-_I believe that soon I will find an internship or my first job in the frontend, where I will get a lot of experience, practical skills and find cool friends._
+_I know how to properly organize my working time, prioritize tasks and find a solution for them as soon as possible._
+
+## ☎️ Contact information:
+
+- **Telegram**: [@roman_chuchev](https://t.me/roman_chuchev) 
+- **Email**: [romanok20@gmail.com](mailto:romanok20@gmail.com)
+- **Phone**: [+7(977)280-56-92](<tel:+7(977)280-56-92>) 
 
 ---
-
-### ☎️ Contact information:
-
-- **Telegram**: [@roman_chuchev](https://t.me/roman_chuchev)
-- **Email**: [romanok20@gmail.com](mailto:romanok20@gmail.com)
-- **Phone**: [+7(977)280-56-92](<tel:+7(977)280-56-92>)
 
 [![Codewars](https://www.codewars.com/users/RomanChuchev/badges/small)](https://www.codewars.com/users/RomanChuchev/badges/small)
 
 ---
+## <div align="center"> Passed courses:
+- "Junior JavaScript Developer" by Skillbox 
+- "React + Redux - Professional Development" by Udemy.
+- "JavaScript/Frontend" by The Rolling Scopes School
+  
 
-### 🛠 Tech Stack and Tools:
+---
 
-<img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
+## 🛠 Tech Stack and Tools:
+  
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
 <img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
 <img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
 <img alt="sass" src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
+<img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
+<img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
+<img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
+<img alt="vs code" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />&nbsp;
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+  
 
 ---
 
-### 🗣️ Languages:
+## 🗣️ Languages:
 - **Russian**: _Native_
 - **English**: _Pre-intermediate/Intermediate_
 
@@ -42,7 +53,7 @@ _I believe that soon I will find an internship or my first job in the frontend, 
 
 ---
 
- ### 🔥My Stats:
+ ## 🔥My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=romanchuchev&theme=dark&background=000000)](https://git.io/streak-stats)
     <br/>
