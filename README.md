@@ -1,4 +1,4 @@
-## **<div align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> Hello Everyone! </div>**
+## **<div align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>   Hello Everyone! </div>**
 
 # <div align="center"> :man_technologist: My name is Roman. I am a Frontend Developer </div>
 
@@ -8,11 +8,15 @@ _I want to work in a team of professionals and participate in the development of
 
 _I know how to properly organize my working time, prioritize tasks and find a solution for them as soon as possible._
 
+---
+
+
 ## <div align="center"> ☎️ Contact information: </div>
 
 - **Telegram**: [@roman_chuchev](https://t.me/roman_chuchev) 
 - **Email**: [romanok20@gmail.com](mailto:romanok20@gmail.com)
-- **Phone**: [+7(977)280-56-92](<tel:+7(977)280-56-92>) 
+- **Phone**: [+7(977)280-56-92](tel:+7(977)280-56-92) 
+- [**Portfolio**](https://romanchuchev.github.io/portfolio/)
 
  [![Codewars](https://www.codewars.com/users/RomanChuchev/badges/small)](https://www.codewars.com/users/RomanChuchev) 
 
@@ -20,9 +24,9 @@ _I know how to properly organize my working time, prioritize tasks and find a so
 
 
 ## 🎓 Passed courses: 
-- "Junior JavaScript Developer" by Skillbox 
-- "React + Redux - Professional Development" by Udemy.
-- "JavaScript/Frontend" by The Rolling Scopes School
+- [x] "Junior JavaScript Developer" by Skillbox 
+- [x] "React + Redux - Professional Development" by Udemy.
+- [x] "JavaScript/Frontend" by The Rolling Scopes School
   
 
 ---
