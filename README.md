@@ -16,7 +16,7 @@ _I know how to properly organize my working time, prioritize tasks and find a so
 - **Telegram**: [@roman_chuchev](https://t.me/roman_chuchev) 
 - **Email**: [romanok20@gmail.com](mailto:romanok20@gmail.com)
 - **Phone**: [+7(977)280-56-92](tel:+7(977)280-56-92) 
-- [**Portfolio**](https://romanchuchev.github.io/portfolio/)
+- **Portfolio**: [romanchuchev.github.io/portfolio/](https://romanchuchev.github.io/portfolio/)
 
  [![Codewars](https://www.codewars.com/users/RomanChuchev/badges/small)](https://www.codewars.com/users/RomanChuchev) 
 
