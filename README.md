@@ -17,7 +17,9 @@ _I know how to properly organize my working time, prioritize tasks and find a so
  [![Codewars](https://www.codewars.com/users/RomanChuchev/badges/small)](https://www.codewars.com/users/RomanChuchev) 
 
 ---
-##  Passed courses: 
+
+
+## 🎓 Passed courses: 
 - "Junior JavaScript Developer" by Skillbox 
 - "React + Redux - Professional Development" by Udemy.
 - "JavaScript/Frontend" by The Rolling Scopes School
