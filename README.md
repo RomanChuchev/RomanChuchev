@@ -61,8 +61,3 @@ _I know how to properly organize my working time, prioritize tasks and find a so
  
  
 [<div align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanchuchev&layout=compact&theme=vision-friendly-dark) </div>](https://github.com/anuraghazra/github-readme-stats)
-[<div align="center"> ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=romanchuchev&theme=dark&background=000000) </div>](https://git.io/streak-stats)
-
-
-
-
